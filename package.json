@@ -2,12 +2,10 @@
     "version": "0.2.4",
     "author": "Andrew Turley",
     "email": "aturley@buglabs.net",
-    "description" : "Converts xml to json and viceverza, using node-expat.",
-    "repository": "git://github.com/buglabs/node-xml2json.git", 
+    "description" : "Converts xml to json and vice versa, using node-xml.",
+    "repository": "git://github.com/juhovh/node-xml2json.git", 
     "main": "index", 
-    "contributors":[ {"name": "Camilo Aguilar", "email": "camilo@buglabs.net"}],
-    "dependencies": {
-       "node-expat": "1.4.1"
-    }
+    "contributors":[ {"name": "Camilo Aguilar", "email": "camilo@buglabs.net" },
+                     {"name": "Juho Vähä-Herttua", "email": "juhovh@iki.fi" } ],
 }
 
